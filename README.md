@@ -1,5 +1,9 @@
 # Audio capture transcription using Flask and GPT Turbo for translation
 
+
+https://github.com/engalejandrovargas/Audio-capture-transcription-using-Flask-and-GPT-Turbo-translation/assets/77429377/e84cbfe9-c210-41c4-bdd3-628f7da7737c
+
+
 This Python script is a web application that uses Flask and aiohttp to create a server with WebSocket functionality. The purpose of the application is to be a real-time audio transcription and translation from Japanese to English using Deepgram and OpenAI's GPT-4 model.
 
 Here's a brief breakdown of the main components:
