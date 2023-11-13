@@ -6,6 +6,8 @@ https://github.com/engalejandrovargas/Audio-capture-transcription-using-Flask-an
 
 This Python script is a web application that uses Flask and aiohttp to create a server with WebSocket functionality. The purpose of the application is to be a real-time audio transcription and translation from Japanese to English using Deepgram and OpenAI's GPT-4 model.
 
+In the web browser the transcription of your audio it will appears while you are speaking. At the same time, in the console of the IDE appears the translation generated from GPT.
+
 Here's a brief breakdown of the main components:
 
 1. Imports: The script imports necessary libraries such as dotenv for environment variable loading, aiohttp for asynchronous HTTP requests, Flask for web application framework, and modules like Deepgram and OpenAI for audio transcription and language translation.
